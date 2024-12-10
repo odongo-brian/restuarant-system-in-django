@@ -1,6 +1,5 @@
 # Restaurant_management_system
 
-## Project Video Link : https://youtu.be/cpPmBlvtdrs
 
 ## Requirement
     
